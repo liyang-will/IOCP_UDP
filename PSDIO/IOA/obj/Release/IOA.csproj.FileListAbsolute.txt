@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\bin\Release\IOA.dll
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\bin\Release\IOA.pdb
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\obj\Release\IOA.dll
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\obj\Release\IOA.pdb

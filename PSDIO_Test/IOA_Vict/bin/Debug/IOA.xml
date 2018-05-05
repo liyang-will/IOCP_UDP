@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+  <startup>
+    <IOA version="v1.0" sku=".NETFramework,Version=v4.5.2" />
+    <Recv IP = "192.168.1.23" Port ="9091"/>
+    <Send IP ="192.168.1.23" Port ="9090"/>
+  </startup>
+</configuration>
+

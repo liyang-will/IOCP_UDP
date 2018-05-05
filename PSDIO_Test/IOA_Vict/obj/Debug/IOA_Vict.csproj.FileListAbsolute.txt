@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\IOA\IOA_Vict\IOA_Vict\bin\Debug\IOA_Vict.exe.config
+C:\Users\Administrator\Desktop\IOA\IOA_Vict\IOA_Vict\bin\Debug\IOA_Vict.exe
+C:\Users\Administrator\Desktop\IOA\IOA_Vict\IOA_Vict\bin\Debug\IOA_Vict.pdb
+C:\Users\Administrator\Desktop\IOA\IOA_Vict\IOA_Vict\obj\Debug\IOA_Vict.exe
+C:\Users\Administrator\Desktop\IOA\IOA_Vict\IOA_Vict\obj\Debug\IOA_Vict.pdb
+C:\Users\Administrator\Desktop\IOA\IOA_Vict\IOA_Vict\obj\Debug\IOA_Vict.csprojResolveAssemblyReference.cache

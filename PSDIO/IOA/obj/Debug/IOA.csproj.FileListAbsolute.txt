@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\bin\Debug\IOA.dll
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\bin\Debug\IOA.pdb
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\obj\Debug\IOA.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\obj\Debug\IOA.dll
+C:\Users\Administrator\Desktop\IOA\IOA\IOA\obj\Debug\IOA.pdb
