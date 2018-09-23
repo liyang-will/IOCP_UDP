@@ -62,38 +62,6 @@ namespace IOA.IOA_Kernel
         /// </summary>
         private SocketAsyncPool readWriteSocketArgsPool;
 
-        /// <summary>
-        /// 从Matlab处接收数据
-        /// </summary>
-        public struct RecvFromMatlabData
-        {
-            public double a;
-            public double b;
-            public double c;
-            public double d;
-            public double e;
-            public double f;
-            public double g;
-            public double h;
-            public double i;
-            public double j;
-            public double k;
-            public double l;
-        }
-
-        /// <summary>
-        /// 向Matlab发送数据
-        /// </summary>
-        public struct SendToMatlabData
-        {
-            public double a;
-            public double b;
-            public double c;
-            public double d;
-            public double e;
-            public double f;
-        }
-
         private static readonly object thislock = new object();
         public IOAKernel()
         {
